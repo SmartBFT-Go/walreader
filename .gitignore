@@ -1,0 +1,22 @@
+version.go
+
+# Binaries for programs and plugins
+__debug_bin
+debug
+debug.*
+
+walreader
+# Dependency directories
+vendor/
+
+# VSCode directory
+.vscode
+
+# MacOS directory
+.DS_Store
+
+# JetBrains directory
+.idea
+
+# Temp directory
+.tmp
